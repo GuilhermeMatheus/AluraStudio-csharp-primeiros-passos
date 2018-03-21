@@ -10,26 +10,26 @@ namespace _2_CriandoVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando o projeto 2-CriandoVariaveis . . .");
+            Console.WriteLine("Executando projeto 2 - Criando Variaveis");
 
             int idade;
             idade = 32;
 
             Console.WriteLine(idade);
 
-            idade = 15;
+            idade = 10;
             Console.WriteLine(idade);
 
-            idade = 20 + 3;
+            idade = 10 + 5;
             Console.WriteLine(idade);
 
-            idade = 20 + 3 * 2;
+            idade = 10 + 5 * 2;
             Console.WriteLine(idade);
 
-            idade = (20 + 3) * 2;
-            Console.WriteLine("(20 + 3) * 2 = " + idade);
+            idade = (10 + 5) * 2;
+            Console.WriteLine("Sua idade é " + idade + "!");
 
-            Console.WriteLine("Execução finalizada. Tecle enter para sair . . .");
+            Console.WriteLine("Execução finalizada. Tecle enter para sair. . . ");
             Console.ReadLine();
         }
     }
