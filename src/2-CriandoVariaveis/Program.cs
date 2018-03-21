@@ -10,29 +10,26 @@ namespace _2_CriandoVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Projeto 2-CriandoVariaveis em execução...");
+            Console.WriteLine("Executando o projeto 2-CriandoVariaveis . . .");
 
-            int anoCriacaoCSharp;
-            anoCriacaoCSharp = 2002;
+            int idade;
+            idade = 32;
 
-            Console.WriteLine(anoCriacaoCSharp);
+            Console.WriteLine(idade);
 
-            int variavelTeste;
-            variavelTeste = 10;
-            Console.WriteLine(variavelTeste);
-            variavelTeste = 10 + 5;
-            Console.WriteLine(variavelTeste);
-            variavelTeste = 10 + 5 * 2;
-            Console.WriteLine(variavelTeste);
+            idade = 15;
+            Console.WriteLine(idade);
 
-            variavelTeste = (10 + 5) * 2;
-            // Aqui estamos montando uma mensagem com o uso do Console.Write e o Console.WriteLine
-            Console.Write("(10 + 5) * 2 = "); // O Write escreve na tela e não pula a linha
-            Console.WriteLine(variavelTeste); // O WriteLine escreve na tela e pula a linha
+            idade = 20 + 3;
+            Console.WriteLine(idade);
 
-            Console.WriteLine("(10 + 5) * 2 = " + variavelTeste); // Podemos também concatenar textos e numéricos do tipo inteiro (int)
+            idade = 20 + 3 * 2;
+            Console.WriteLine(idade);
 
-            Console.WriteLine("Finalizada a execução. Dê enter para encerrar o processo...");
+            idade = (20 + 3) * 2;
+            Console.WriteLine("(20 + 3) * 2 = " + idade);
+
+            Console.WriteLine("Execução finalizada. Tecle enter para sair . . .");
             Console.ReadLine();
         }
     }
