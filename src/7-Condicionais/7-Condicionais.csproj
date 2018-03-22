@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6B66B306-FE47-49D1-AC2A-E7E3BEE5AAA4}</ProjectGuid>
+    <ProjectGuid>{428DB931-C68C-433C-AD5D-EAF053E72052}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_7_CondicionaisEControleDeFluxo</RootNamespace>
-    <AssemblyName>7-CondicionaisEControleDeFluxo</AssemblyName>
+    <RootNamespace>_7_Condicionais</RootNamespace>
+    <AssemblyName>7-Condicionais</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
