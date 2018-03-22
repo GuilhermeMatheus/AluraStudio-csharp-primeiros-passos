@@ -13,7 +13,7 @@ namespace _5_CaracteresETextos
             Console.WriteLine("Executando o projeto 5 - Caracteres e textos");
 
             // character
-            char primeiraLetra = '';
+            char primeiraLetra = ' ';
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char)61;
@@ -23,10 +23,15 @@ namespace _5_CaracteresETextos
             Console.WriteLine(primeiraLetra);
 
             string titulo = "Alura Cursos de tecnologia " + 2020;
+            string cursosProgramacao =
+@" - .NET
+ - Java
+ - Javascript";
+
             Console.WriteLine(titulo);
-
-            string vazia = "";
-
+            Console.WriteLine(cursosProgramacao);
+           
+             
             Console.ReadLine();
         }
     }
