@@ -16,7 +16,7 @@ namespace _4_ConversoesEOutrosTiposNumericos
 
             // O int é um tipo de variável que suporta valores ate 32 bits
             int salarioEmInteiro = (int)salario;
-
+            
             Console.WriteLine(salarioEmInteiro);
 
             // O long é uma variavel de 64 bits
