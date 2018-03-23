@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EBE6114E-729A-493A-B4A2-391911778706}</ProjectGuid>
+    <ProjectGuid>{72252359-6C65-41C5-A851-03ECBDA34941}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>P10_LacoDeRepeticaoWhile</RootNamespace>
     <AssemblyName>P10-LacoDeRepeticaoWhile</AssemblyName>
