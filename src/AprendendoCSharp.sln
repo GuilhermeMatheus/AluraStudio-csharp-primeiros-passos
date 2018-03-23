@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Esco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-LacoDeRepeticaoWhile", "P10-LacoDeRepeticaoWhile\P10-LacoDeRepeticaoWhile.csproj", "{72252359-6C65-41C5-A851-03ECBDA34941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-LacoDeRepeticaoFor", "P11-LacoDeRepeticaoFor\P11-LacoDeRepeticaoFor.csproj", "{C27013FB-5715-4BFB-AF72-4DF90257D9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{72252359-6C65-41C5-A851-03ECBDA34941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72252359-6C65-41C5-A851-03ECBDA34941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72252359-6C65-41C5-A851-03ECBDA34941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27013FB-5715-4BFB-AF72-4DF90257D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27013FB-5715-4BFB-AF72-4DF90257D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27013FB-5715-4BFB-AF72-4DF90257D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27013FB-5715-4BFB-AF72-4DF90257D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
